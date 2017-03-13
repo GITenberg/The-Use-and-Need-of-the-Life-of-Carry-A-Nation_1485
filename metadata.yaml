@@ -1,5 +1,8 @@
 _repo: The-Use-and-Need-of-the-Life-of-Carry-A-Nation_1485
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Nation, Carry Amelia
@@ -13,6 +16,8 @@ creator:
     gutenberg_agent_id: '648'
     url: http://www.gutenberg.org/2009/agents/648
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/1485#The-Use-and-Need-of-the-Life-of-Carry-A-Nation
 gutenberg_issued: '1998-10-01'
 gutenberg_type: Text
 identifiers:
