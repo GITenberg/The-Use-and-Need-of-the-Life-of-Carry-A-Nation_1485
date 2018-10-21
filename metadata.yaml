@@ -1,5 +1,5 @@
 _repo: The-Use-and-Need-of-the-Life-of-Carry-A-Nation_1485
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -31,5 +31,6 @@ subjects:
 - !lcsh 'Temperance -- United States'
 - !lcsh 'Nation, Carry Amelia, 1846-1911'
 - !lcsh 'Social reformers -- United States -- Biography'
+- GITenberg
 title: The Use and Need of the Life of Carry A. Nation
 url: http://www.gutenberg.org/ebooks/1485
